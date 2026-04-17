@@ -2,10 +2,15 @@
 .gradle/
 /local.properties
 /.idea/
-/build/
-**/build/
 .DS_Store
 captures/
 
 .gradle-user/
 .tmp/
+app/build/intermediates/
+core/
+data/
+domain/
+feature/
+app/build/tmp/
+app/build/kotlin/

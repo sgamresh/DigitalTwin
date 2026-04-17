@@ -1,0 +1,459 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [:data:activity] D:\Users\admin\Documents\DigitalTwin\data\activity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:core:database] D:\Users\admin\Documents\DigitalTwin\core\database\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:edit] D:\Users\admin\Documents\DigitalTwin\feature\edit\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:history] D:\Users\admin\Documents\DigitalTwin\feature\history\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:tracker] D:\Users\admin\Documents\DigitalTwin\feature\tracker\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\aa3234a75ef28e1867cc9865a5a8b20f\transformed\navigation-common-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9bf0429b56f31a1eb80fb59542db5409\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a72e4405480b979bf4d7ec704f2a295b\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3aaf1990d94dc24c87293609db0f73de\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d8ad60336cff5ad10b72ff3186caf50d\transformed\navigation-compose-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4594b23de4953156f222da08375c0f64\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4dbfc59fcbdcbd74b6ffb439f8556863\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\aea13c34333711696e219bd68436e39e\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\77fc4ace073b4a888966fdb46aafb2ad\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\61a9272417f6de2b8abd92157a959576\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\5b25e77ac559ed68ecf15e8402f4d6d1\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\050fbf7720bd86bdaab07d8ad50d4da9\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\c9bcfeb7b8da84f3abb410cfc8b0e995\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\0359bf1e23c7170e4910e5e67ee1ba4a\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\663519033de54f6be315f41119464c74\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9c100d50d14a2f5ff0137bb755a0469a\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2107fb4a1eb83012eca27c9bcfd8f2ac\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\597a3d815fb3aab0e7b2bcf4e3e28705\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1af642906638ec75e47cf52cdf64f833\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\788dd1373d93e365366364b30319c350\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d6d830f0cad7f96ac3516d1145c83dcd\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\e8767894ef704cfaa63fbea2d77eb36b\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6b77bfefb38a1ba2277bd2082c9fc7b4\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3047cdd128e6ecd95b4329adb4eb8092\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6ffefde7093c978f76693ef337799c31\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1e74cf260509fd03c3d041a256a9dd29\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\0cfe723688346e855f016d88bc04ffc3\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cac49377be29501f197fcad3ae5f7b69\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d49e461fb1374d404613b9e05ca09421\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\68e52a4a499c74e45c460d825aa55a8a\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b4cd8bdd13f6f4272c0c92a455a80a6e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bbffa1a2c0f651c0c5ba2b18b3c49a31\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f1f238807166d42dfed5ad6dfbc70976\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bab28818f40c348b03edadca98b8d980\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\c3074695e6a91e2122d48b1a1a7d9a45\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\426274e6beeb7c7faa00a2322aff381d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3c03520ab769a2e8ba1e89f862549e67\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\53db269867be0e9745d77d7823be336c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b6f8e62c6bb7bdab91a159cd2656bce7\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\54dd8ca091b68b6ca35b489575fe5567\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7e05db07851a0da5a962797f5df9b624\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a79c4149393fd7c8e186473f0473f007\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7aad9e4ca82309f66b16287934694645\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\35687f89cdd44229388b3183f9a7e09a\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f10e2e754deb552eeb26fd8cfd3dac59\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a99e191552395ce7dd847de366f706bb\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a51afadef74f2c12fbf2117c44b62758\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d4c2d33bd33594fb90d56346bbf086ab\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\68fa047557038b93971f2e199d968b6d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d52dde115201631e0d4af21b5ea926fe\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\922e3c38ec836a52977b7ef95cdc8ff5\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6554d3ba31c9aa8817c27325d93caa21\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b157d70581409918cd42b76443c38297\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a4434f8a7d6299c86f7e4e16f75be4f0\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\ed21ffe77cd1147110ced50cd9f5d464\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cc778f80e9f231f8aa503961bcacee5a\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a4659523eca6d2b7a1bb0586cbc6dc7d\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\561576d98c492169e4576141dc4e912b\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a08296a48093aea51f56e9d6bad9a956\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3d582bf35cf315a26d2fd3034c3fca8b\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\828b3132a9feb65dee26884ffcd02fd3\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1eedd45f93e9b221174649fa9112fcfb\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\fadc39553acb42cda3f5fc4f982e9dfc\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b1f00cd616664c1f74886270178c7e57\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9bfabc948ba3fcf7039eac63b1370edd\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\85631f2dadd40f150611a12c1d84dde5\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b77aaff8ac52f34cf6e059ddc45ec6c9\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4f754878f7241c3c493d6be1abaa534b\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9f1ff3b57ca2cc0c9bcd68f0d9d0ab79\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\50edff5382ca53e67ab4ff9858390af5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\adef42b4d4e74a7549ffa130f25e59d6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3132b300577de045aa0acf131c92ceb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7bec85fab511f5c191682279fd6c6072\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2a979b7d842196144f33a0be36019645\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bea18d154c074f21026efb7a75bc3cac\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\98ece9cb9d5bc8f9b271a7a805f68da0\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cdc7e991e2386f8d381cdd600a39cc41\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\400769cfa77876a46da3b62e2698dc55\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:4:5-22:19
+INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:4:5-22:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\788dd1373d93e365366364b30319c350\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\788dd1373d93e365366364b30319c350\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d6d830f0cad7f96ac3516d1145c83dcd\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d6d830f0cad7f96ac3516d1145c83dcd\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\e8767894ef704cfaa63fbea2d77eb36b\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\e8767894ef704cfaa63fbea2d77eb36b\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6b77bfefb38a1ba2277bd2082c9fc7b4\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6b77bfefb38a1ba2277bd2082c9fc7b4\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3132b300577de045aa0acf131c92ceb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3132b300577de045aa0acf131c92ceb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2a979b7d842196144f33a0be36019645\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2a979b7d842196144f33a0be36019645\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:9:9-63
+	android:icon
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:7:9-58
+	android:allowBackup
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:11:9-49
+	android:name
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:5:9-47
+activity#com.example.digitaltwin.MainActivity
+ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:exported
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:14:13-36
+	android:theme
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml
+MERGED from [:data:activity] D:\Users\admin\Documents\DigitalTwin\data\activity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:data:activity] D:\Users\admin\Documents\DigitalTwin\data\activity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:core:database] D:\Users\admin\Documents\DigitalTwin\core\database\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:core:database] D:\Users\admin\Documents\DigitalTwin\core\database\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:feature:edit] D:\Users\admin\Documents\DigitalTwin\feature\edit\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:feature:edit] D:\Users\admin\Documents\DigitalTwin\feature\edit\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:feature:history] D:\Users\admin\Documents\DigitalTwin\feature\history\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:feature:history] D:\Users\admin\Documents\DigitalTwin\feature\history\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:feature:tracker] D:\Users\admin\Documents\DigitalTwin\feature\tracker\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:feature:tracker] D:\Users\admin\Documents\DigitalTwin\feature\tracker\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\aa3234a75ef28e1867cc9865a5a8b20f\transformed\navigation-common-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\aa3234a75ef28e1867cc9865a5a8b20f\transformed\navigation-common-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9bf0429b56f31a1eb80fb59542db5409\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9bf0429b56f31a1eb80fb59542db5409\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a72e4405480b979bf4d7ec704f2a295b\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a72e4405480b979bf4d7ec704f2a295b\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3aaf1990d94dc24c87293609db0f73de\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3aaf1990d94dc24c87293609db0f73de\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d8ad60336cff5ad10b72ff3186caf50d\transformed\navigation-compose-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.5] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d8ad60336cff5ad10b72ff3186caf50d\transformed\navigation-compose-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4594b23de4953156f222da08375c0f64\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4594b23de4953156f222da08375c0f64\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4dbfc59fcbdcbd74b6ffb439f8556863\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4dbfc59fcbdcbd74b6ffb439f8556863\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\aea13c34333711696e219bd68436e39e\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\aea13c34333711696e219bd68436e39e\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\77fc4ace073b4a888966fdb46aafb2ad\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\77fc4ace073b4a888966fdb46aafb2ad\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\61a9272417f6de2b8abd92157a959576\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\61a9272417f6de2b8abd92157a959576\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\5b25e77ac559ed68ecf15e8402f4d6d1\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\5b25e77ac559ed68ecf15e8402f4d6d1\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\050fbf7720bd86bdaab07d8ad50d4da9\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\050fbf7720bd86bdaab07d8ad50d4da9\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\c9bcfeb7b8da84f3abb410cfc8b0e995\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\c9bcfeb7b8da84f3abb410cfc8b0e995\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\0359bf1e23c7170e4910e5e67ee1ba4a\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\0359bf1e23c7170e4910e5e67ee1ba4a\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\663519033de54f6be315f41119464c74\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\663519033de54f6be315f41119464c74\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9c100d50d14a2f5ff0137bb755a0469a\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9c100d50d14a2f5ff0137bb755a0469a\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2107fb4a1eb83012eca27c9bcfd8f2ac\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2107fb4a1eb83012eca27c9bcfd8f2ac\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\597a3d815fb3aab0e7b2bcf4e3e28705\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\597a3d815fb3aab0e7b2bcf4e3e28705\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1af642906638ec75e47cf52cdf64f833\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1af642906638ec75e47cf52cdf64f833\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\788dd1373d93e365366364b30319c350\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\788dd1373d93e365366364b30319c350\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d6d830f0cad7f96ac3516d1145c83dcd\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d6d830f0cad7f96ac3516d1145c83dcd\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\e8767894ef704cfaa63fbea2d77eb36b\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\e8767894ef704cfaa63fbea2d77eb36b\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6b77bfefb38a1ba2277bd2082c9fc7b4\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6b77bfefb38a1ba2277bd2082c9fc7b4\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3047cdd128e6ecd95b4329adb4eb8092\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3047cdd128e6ecd95b4329adb4eb8092\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6ffefde7093c978f76693ef337799c31\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6ffefde7093c978f76693ef337799c31\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1e74cf260509fd03c3d041a256a9dd29\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1e74cf260509fd03c3d041a256a9dd29\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\0cfe723688346e855f016d88bc04ffc3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\0cfe723688346e855f016d88bc04ffc3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cac49377be29501f197fcad3ae5f7b69\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cac49377be29501f197fcad3ae5f7b69\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d49e461fb1374d404613b9e05ca09421\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d49e461fb1374d404613b9e05ca09421\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\68e52a4a499c74e45c460d825aa55a8a\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\68e52a4a499c74e45c460d825aa55a8a\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b4cd8bdd13f6f4272c0c92a455a80a6e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b4cd8bdd13f6f4272c0c92a455a80a6e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bbffa1a2c0f651c0c5ba2b18b3c49a31\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bbffa1a2c0f651c0c5ba2b18b3c49a31\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f1f238807166d42dfed5ad6dfbc70976\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f1f238807166d42dfed5ad6dfbc70976\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bab28818f40c348b03edadca98b8d980\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bab28818f40c348b03edadca98b8d980\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\c3074695e6a91e2122d48b1a1a7d9a45\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\c3074695e6a91e2122d48b1a1a7d9a45\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\426274e6beeb7c7faa00a2322aff381d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\426274e6beeb7c7faa00a2322aff381d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3c03520ab769a2e8ba1e89f862549e67\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3c03520ab769a2e8ba1e89f862549e67\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\53db269867be0e9745d77d7823be336c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\53db269867be0e9745d77d7823be336c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b6f8e62c6bb7bdab91a159cd2656bce7\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b6f8e62c6bb7bdab91a159cd2656bce7\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\54dd8ca091b68b6ca35b489575fe5567\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\54dd8ca091b68b6ca35b489575fe5567\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7e05db07851a0da5a962797f5df9b624\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7e05db07851a0da5a962797f5df9b624\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a79c4149393fd7c8e186473f0473f007\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a79c4149393fd7c8e186473f0473f007\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7aad9e4ca82309f66b16287934694645\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7aad9e4ca82309f66b16287934694645\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\35687f89cdd44229388b3183f9a7e09a\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\35687f89cdd44229388b3183f9a7e09a\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f10e2e754deb552eeb26fd8cfd3dac59\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f10e2e754deb552eeb26fd8cfd3dac59\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a99e191552395ce7dd847de366f706bb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a99e191552395ce7dd847de366f706bb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a51afadef74f2c12fbf2117c44b62758\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a51afadef74f2c12fbf2117c44b62758\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d4c2d33bd33594fb90d56346bbf086ab\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d4c2d33bd33594fb90d56346bbf086ab\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\68fa047557038b93971f2e199d968b6d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\68fa047557038b93971f2e199d968b6d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d52dde115201631e0d4af21b5ea926fe\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d52dde115201631e0d4af21b5ea926fe\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\922e3c38ec836a52977b7ef95cdc8ff5\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\922e3c38ec836a52977b7ef95cdc8ff5\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6554d3ba31c9aa8817c27325d93caa21\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\6554d3ba31c9aa8817c27325d93caa21\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b157d70581409918cd42b76443c38297\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b157d70581409918cd42b76443c38297\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a4434f8a7d6299c86f7e4e16f75be4f0\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a4434f8a7d6299c86f7e4e16f75be4f0\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\ed21ffe77cd1147110ced50cd9f5d464\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\ed21ffe77cd1147110ced50cd9f5d464\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cc778f80e9f231f8aa503961bcacee5a\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cc778f80e9f231f8aa503961bcacee5a\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a4659523eca6d2b7a1bb0586cbc6dc7d\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a4659523eca6d2b7a1bb0586cbc6dc7d\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\561576d98c492169e4576141dc4e912b\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\561576d98c492169e4576141dc4e912b\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a08296a48093aea51f56e9d6bad9a956\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\a08296a48093aea51f56e9d6bad9a956\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3d582bf35cf315a26d2fd3034c3fca8b\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3d582bf35cf315a26d2fd3034c3fca8b\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\828b3132a9feb65dee26884ffcd02fd3\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\828b3132a9feb65dee26884ffcd02fd3\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1eedd45f93e9b221174649fa9112fcfb\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\1eedd45f93e9b221174649fa9112fcfb\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\fadc39553acb42cda3f5fc4f982e9dfc\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\fadc39553acb42cda3f5fc4f982e9dfc\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b1f00cd616664c1f74886270178c7e57\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b1f00cd616664c1f74886270178c7e57\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9bfabc948ba3fcf7039eac63b1370edd\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9bfabc948ba3fcf7039eac63b1370edd\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\85631f2dadd40f150611a12c1d84dde5\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\85631f2dadd40f150611a12c1d84dde5\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b77aaff8ac52f34cf6e059ddc45ec6c9\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\b77aaff8ac52f34cf6e059ddc45ec6c9\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4f754878f7241c3c493d6be1abaa534b\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\4f754878f7241c3c493d6be1abaa534b\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9f1ff3b57ca2cc0c9bcd68f0d9d0ab79\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9f1ff3b57ca2cc0c9bcd68f0d9d0ab79\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\50edff5382ca53e67ab4ff9858390af5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\50edff5382ca53e67ab4ff9858390af5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\adef42b4d4e74a7549ffa130f25e59d6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\adef42b4d4e74a7549ffa130f25e59d6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3132b300577de045aa0acf131c92ceb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\3132b300577de045aa0acf131c92ceb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7bec85fab511f5c191682279fd6c6072\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7bec85fab511f5c191682279fd6c6072\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2a979b7d842196144f33a0be36019645\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2a979b7d842196144f33a0be36019645\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bea18d154c074f21026efb7a75bc3cac\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\bea18d154c074f21026efb7a75bc3cac\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\98ece9cb9d5bc8f9b271a7a805f68da0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\98ece9cb9d5bc8f9b271a7a805f68da0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cdc7e991e2386f8d381cdd600a39cc41\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\cdc7e991e2386f8d381cdd600a39cc41\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\400769cfa77876a46da3b62e2698dc55\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\400769cfa77876a46da3b62e2698dc55\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\admin\Documents\DigitalTwin\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\788dd1373d93e365366364b30319c350\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\788dd1373d93e365366364b30319c350\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\788dd1373d93e365366364b30319c350\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d6d830f0cad7f96ac3516d1145c83dcd\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d6d830f0cad7f96ac3516d1145c83dcd\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\d6d830f0cad7f96ac3516d1145c83dcd\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2a979b7d842196144f33a0be36019645\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\2a979b7d842196144f33a0be36019645\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\f6c8d9f4e920ea0834bf42d0d8286f41\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.digitaltwin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.digitaltwin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7a518e4da3514cb3556924398246641e\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\9fd36bb4d6f7b6527804e93bdaa9094a\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\39e5855a940a64e9afae6d5035be3e93\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\admin\Documents\DigitalTwin\.gradle-user\caches\8.14.3\transforms\7b69159c5cdb063c289be982a70a7436\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
