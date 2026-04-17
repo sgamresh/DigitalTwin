@@ -6,14 +6,15 @@ plugins {
 
 android {
     namespace = "com.example.digitaltwin.feature.tracker"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
-        minSdk = 26
+        minSdk = 23
         consumerProguardFiles("consumer-rules.pro")
     }
 
     compileOptions {
+        isCoreLibraryDesugaringEnabled = true
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
@@ -40,6 +41,7 @@ dependencies {
     implementation(libs.androidx.lifecycle.viewmodel.compose)
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.kotlinx.coroutines.android)
+    coreLibraryDesugaring(libs.desugar.jdk.libs)
 
     debugImplementation(libs.androidx.compose.ui.tooling)
 }
